@@ -1,0 +1,36 @@
+{
+  "name": "koa2-ueditor-oss",
+  "version": "2.1.2",
+  "description": "UEditor百度编辑器基于koa2的后端实现,实现上传文件到oss",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ali-oss": "^6.15.2",
+    "koa-multer": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.1024web.cn/rowger/r-common-utils"
+  },
+  "bugs": {
+    "url": "http://git.1024web.cn/rowger/r-common-utils"
+  },
+  "keywords": [
+    "koa2",
+    "nodejs",
+    "ueditor",
+    "oss",
+    "koa2-ueditor-oss"
+  ],
+  "author": {
+    "name": "rowger",
+    "email": "php_echo@163.com"
+  },
+  "license": "MIT"
+}
